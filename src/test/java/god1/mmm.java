@@ -2,8 +2,8 @@ package god1;
 
 import org.testng.annotations.Test;
 
-public class mmm extends log1 {
+public class mmm {
 
-	
+	system.out.print("fgfgfgg");
 
 }
